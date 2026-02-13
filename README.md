@@ -1,4 +1,4 @@
-# Lab 0 Labs format, KNN (guided)
+# Lab 0 - Labs format, KNN (guided)
 
 In this repo that you will work with following file - `lab.ipynb`, it's your notebook that you will submit.
 
