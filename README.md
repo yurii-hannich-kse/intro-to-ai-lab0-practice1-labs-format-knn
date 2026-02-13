@@ -4,6 +4,8 @@ In this repo that you will work with following file - `lab.ipynb`, it's your not
 
 **! IMPROTANT !**
 
+Follow these rules strictly
+
 - Do not change the name of the notebook.
 - Do not add any files to the repo, only modify `lab.ipynb` (Github Classroom will automatically grade only this file and send alert if other files were changed).
 - Do not change the structure of the notebook (e.g., move cells, add new ones, delete existing ones) - it may break the autograder. You can only modify the content of the cells that are already there and where it is clearly stated (like 'YOUR CODE HERE').
